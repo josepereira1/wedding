@@ -121,7 +121,7 @@ a{color:inherit}
   text-transform:uppercase;letter-spacing:.3em;font-size:.95rem;font-weight:600;color:var(--gold)
 }
 .card{
-  background:rgba(255,253,249,.8);border:1px solid rgba(125,93,34,.3);padding:1.8rem 1.4rem;position:relative;
+  background:var(--snow);border:1px solid rgba(125,93,34,.3);padding:1.8rem 1.4rem;position:relative;
   box-shadow:0 12px 34px rgba(125,93,34,.1)
 }
 .card::before{content:"";position:absolute;inset:6px;border:1px solid rgba(184,147,74,.25);pointer-events:none}
